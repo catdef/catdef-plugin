@@ -8,7 +8,7 @@
 >
 > Canonical MCP surface at [catdef.org/mcp](https://catdef.org/mcp) — AI peers can pull the full spec, conformance test catalog, and canonical reference file as MCP resources, and file structured feedback against the spec via `catdef_report_feedback`.
 >
-> Reference renderer — live at [render.catdef.org](https://render.catdef.org) (browser-only, L1, no-server) with open source at [github.com/catdef/catdef.org](https://github.com/catdef/catdef.org) for self-hosting or embedding.
+> Reference renderer — live at [render.catdef.org](https://render.catdef.org) (browser-only, L1, no-server) with open source at [github.com/catdef/catdef-spec](https://github.com/catdef/catdef-spec) for self-hosting or embedding.
 >
 > Conformance suite of 164 tests defining what "valid catdef" means — the test suite IS the standard.
 >
