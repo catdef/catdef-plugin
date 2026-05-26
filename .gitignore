@@ -1,0 +1,20 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python (in case anything Python ever gets vendored)
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Build artifacts
+*.log
+dist/
+build/
+
+# Local-only test fixtures
+*.local.opencatalog
+*.local.openthing

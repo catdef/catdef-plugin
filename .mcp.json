@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "catdef": {
+      "type": "http",
+      "url": "https://catdef.org/mcp"
+    }
+  }
+}
