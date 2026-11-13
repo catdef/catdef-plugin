@@ -1,5 +1,6 @@
 {
   "name": "catdef",
+  "displayName": "catdef",
   "description": "Substrate spec for AI-readable, transportable structured data (OpenThings) and catalogs (OpenCatalogs) — schemas, skills, and a canonical MCP surface at catdef.org/mcp",
   "version": "1.4.0",
   "author": {
