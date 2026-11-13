@@ -10,5 +10,6 @@
   },
   "homepage": "https://catdef.org",
   "repository": "https://github.com/catdef/catdef-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://github.com/catdef/catdef-plugin/blob/main/PRIVACY.md"
 }
