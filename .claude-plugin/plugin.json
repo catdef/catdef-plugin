@@ -11,5 +11,7 @@
   "homepage": "https://catdef.org",
   "repository": "https://github.com/catdef/catdef-plugin",
   "license": "MIT",
-  "privacyPolicyUrl": "https://github.com/catdef/catdef-plugin/blob/main/PRIVACY.md"
+  "privacyPolicyUrl": "https://github.com/catdef/catdef-plugin/blob/main/PRIVACY.md",
+  "documentationUrl": "https://github.com/catdef/catdef-spec",
+  "supportUrl": "https://github.com/catdef/catdef-plugin/issues"
 }
