@@ -1,5 +1,7 @@
 # catdef plugin for Claude Code
 
+**Install:** [Anthropic plugin directory](https://claude.ai/plugins/id/f94e53de-df9b-4ef4-b044-ba2ec836683b@anthropic-plugin-directory) — Community tier, scanned by Anthropic.
+
 > catdef is the substrate spec for AI-readable structured data — a JSON shape for describing things (OpenThing) and catalogs of things (OpenCatalog) that any AI runtime can render, validate, or operate on with zero context backfill. Catdef also specifies a serialization standard so that both .OpenThings and .OpenCatalogs can exist on filesystems and be transported via email.
 >
 > This plugin gives you:
