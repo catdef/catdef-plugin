@@ -11,6 +11,20 @@
   "homepage": "https://catdef.org",
   "repository": "https://github.com/catdef/catdef-plugin",
   "license": "MIT",
+  "keywords": [
+    "catalog",
+    "catdef",
+    "catx",
+    "opencatalog",
+    "structured-data",
+    "schema",
+    "json",
+    "metadata",
+    "collections",
+    "inventory",
+    "validation",
+    "mcp"
+  ],
   "privacyPolicyUrl": "https://github.com/catdef/catdef-plugin/blob/main/PRIVACY.md",
   "documentationUrl": "https://github.com/catdef/catdef-spec",
   "supportUrl": "https://github.com/catdef/catdef-plugin/issues"
