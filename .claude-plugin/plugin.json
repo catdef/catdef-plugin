@@ -2,7 +2,7 @@
   "name": "catdef",
   "displayName": "catdef",
   "description": "Substrate spec for AI-readable, transportable structured data — things and catalogs in the CATX carrier format — schemas, skills, and a canonical MCP surface at catdef.org/mcp",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "author": {
     "name": "catdef maintainers",
     "email": "catdef-maintainer@catdef.org",
