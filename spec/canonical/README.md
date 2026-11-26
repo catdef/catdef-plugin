@@ -1,5 +1,22 @@
 # canonical
 
+> **What this plugin vendors, and what it does not.**
+>
+> This directory is a partial copy of the canonical reference in
+> [catdef-spec](https://github.com/catdef/catdef-spec/tree/main/canonical). The plugin ships
+> **`riverside-heritage-reference-v1.4.json`** — the catalog document on its own, 59 KB and
+> readable — because that is all the skills need as a shape reference.
+>
+> It does **not** ship the packaged `.opencatalog` ZIP bundle, the `photos/` directory,
+> `photos_manifest.json`, or `fetch_photos.py`. The Claude plugin directory does not accept
+> opaque archives from unverified organizations, and a 1.7 MB bundle of photographs is weight a
+> shape reference does not need. For the full bundle, the photos, and anything below about
+> packaging or re-fetching, go to catdef-spec.
+>
+> The rest of this file is upstream's documentation, kept as-is so it stays comparable with the
+> source. Sections describing files listed above as absent do not apply to this copy.
+
+
 The canonical catdef reference bundle. A worked example that every implementer tests against, maintained in lockstep with the spec.
 
 This directory is a normative spec artifact per the [MCP conformance levels proposal](../proposals/mcp-conformance-levels-and-reference.md). The bundle is what a catdef implementation — renderer, importer, CATIO-to-MCP server, conformance checker — points at to validate behavior against a single, stable, public example.

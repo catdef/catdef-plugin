@@ -76,7 +76,7 @@ Lints a catdef-shape JSON (catalog or thing) against catdef v1.4. Reports violat
 
 ### `/catdef:scaffold`
 
-Generates a starter v1.4 catalog from a natural-language description. Elicits catalog identity, item template shape, and 4–8 key fields; produces a complete, validatable skeleton. Uses the canonical reference at `spec/canonical/riverside-heritage-reference-v1.4.opencatalog` as the shape reference.
+Generates a starter v1.4 catalog from a natural-language description. Elicits catalog identity, item template shape, and 4–8 key fields; produces a complete, validatable skeleton. Uses the canonical reference at `spec/canonical/riverside-heritage-reference-v1.4.json` as the shape reference.
 
 ### `/catdef:extract`
 

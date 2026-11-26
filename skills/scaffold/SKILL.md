@@ -38,7 +38,7 @@ If the user is impatient or asks for "just give me something to start with", eli
 
 ## Scaffold output shape
 
-Produce a complete, valid v1.4 OpenCatalog. Use the canonical reference at `${CLAUDE_PLUGIN_ROOT}/spec/canonical/riverside-heritage-reference-v1.4.opencatalog` as the shape reference. Minimum structure:
+Produce a complete, valid v1.4 OpenCatalog. Use the canonical reference at `${CLAUDE_PLUGIN_ROOT}/spec/canonical/riverside-heritage-reference-v1.4.json` as the shape reference. Minimum structure:
 
 ```json
 {
@@ -80,5 +80,5 @@ Add `subcats`, `views`, `themes`, `embed`, and `settings` blocks only if the use
 ## Reference
 
 - Spec: `${CLAUDE_PLUGIN_ROOT}/spec/CATDEF_SPEC.md` (substrate; read §Top-Level Structure, §templates, §field types, §subcats)
-- Canonical reference (a known-valid, fully-fleshed-out catalog to copy shape from): `${CLAUDE_PLUGIN_ROOT}/spec/canonical/riverside-heritage-reference-v1.4.opencatalog`
+- Canonical reference (a known-valid, fully-fleshed-out catalog to copy shape from): `${CLAUDE_PLUGIN_ROOT}/spec/canonical/riverside-heritage-reference-v1.4.json`
 - Field type closed vocabulary: CATDEF_SPEC.md §field types

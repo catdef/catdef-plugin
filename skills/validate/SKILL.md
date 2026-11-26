@@ -111,5 +111,5 @@ If `catdef.org/mcp` is connected (check via `/mcp` or by trying to call `catdef_
 
 - Spec: `${CLAUDE_PLUGIN_ROOT}/spec/CATDEF_SPEC.md`
 - CATIO transport: `${CLAUDE_PLUGIN_ROOT}/spec/CATIO_SPEC.md`
-- Canonical reference (a known-valid catalog to compare shapes against): `${CLAUDE_PLUGIN_ROOT}/spec/canonical/riverside-heritage-reference-v1.4.opencatalog`
+- Canonical reference (a known-valid catalog to compare shapes against): `${CLAUDE_PLUGIN_ROOT}/spec/canonical/riverside-heritage-reference-v1.4.json`
 - Full pytest conformance suite: [github.com/catdef/catdef-spec/tree/main/conformance](https://github.com/catdef/catdef-spec/tree/main/conformance)

@@ -114,5 +114,5 @@ Don't extract silently. Confirm with the user:
 ## Reference
 
 - Spec: `${CLAUDE_PLUGIN_ROOT}/spec/CATDEF_SPEC.md` (§field types is the load-bearing reference for the mapping table)
-- Canonical reference: `${CLAUDE_PLUGIN_ROOT}/spec/canonical/riverside-heritage-reference-v1.4.opencatalog` — shows what a fully-formed catalog looks like, useful as a target shape
+- Canonical reference: `${CLAUDE_PLUGIN_ROOT}/spec/canonical/riverside-heritage-reference-v1.4.json` — shows what a fully-formed catalog looks like, useful as a target shape
 - CATIO bundle format (for photo-bundled extraction): `${CLAUDE_PLUGIN_ROOT}/spec/CATIO_SPEC.md`
